@@ -1,0 +1,6 @@
+{
+    "workbench.colorTheme": "One Dark Pro",
+    "terminal.integrated.fontFamily": "CaskaydiaCove Nerd Font Mono",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue"
+}
